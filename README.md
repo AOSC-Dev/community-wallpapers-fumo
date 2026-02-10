@@ -1,4 +1,4 @@
-# AOSC Fumo Artworks
+# AOSC Fumo Artwork
 
 AOSC OS wallpapers with fumofumo (ᗜˬᗜ)
 
