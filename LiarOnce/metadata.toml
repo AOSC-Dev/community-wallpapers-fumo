@@ -1,0 +1,24 @@
+[[authors]]
+email = "liaronce@hotmail.com"
+name.default = "LiarOnce"
+
+[[wallpapers]]
+title.default = "Anan and Reimu"
+title.zh-CN = "安安和灵梦"
+license = "CC-BY-SA-4.0"
+id = "anan-and-reimu"
+path = "anan-and-reimu.jpg"
+
+[[wallpapers]]
+title.default = "Anan at the tea stall"
+title.zh-CN = "在品茶摊上的安安"
+license = "CC-BY-SA-4.0"
+id = "anan-at-the-tea-stall"
+path = "anan-at-the-tea-stall.jpg"
+
+[[wallpapers]]
+title.default = "Anan by the window"
+title.zh-CN = "窗边安安"
+license = "CC-BY-SA-4.0"
+id = "anan-by-the-window"
+path = "anan-by-the-window.jpg"
