@@ -1,5 +1,6 @@
-# community-wallpapers-fumoarts
-Mascot fumoarts Wallpapers for AOSC OS 
+# AOSC Fumo Artworks
+
+AOSC OS wallpapers with fumofumo (ᗜˬᗜ)
 
 Shot devices:  
 Xiaomi 15 Ultra  
