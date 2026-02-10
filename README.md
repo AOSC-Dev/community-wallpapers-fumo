@@ -1,7 +1,7 @@
 # community-wallpapers-fumoarts
 Mascot fumoarts Wallpapers for AOSC OS 
 
-Shot devices:
+Shot devices:  
 Xiaomi 15 Ultra  
 Xiaomi 17  
 
