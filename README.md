@@ -13,6 +13,7 @@ Xiaomi 15S Pro
 Special thanks for providing some scenes:
 
 ```text
+Cuiping Lake
 Fuzhou Night Bird Coffee （福州夜雀小屋）
 Olympic Forest Park（奥林匹克森林公园）
 The Summer Palace （颐和园）

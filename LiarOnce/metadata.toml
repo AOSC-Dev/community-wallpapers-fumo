@@ -22,3 +22,25 @@ title.zh-CN = "窗边安安"
 license = "CC-BY-SA-4.0"
 id = "anan-by-the-window"
 path = "anan-by-the-window.jpg"
+
+[[wallpapers]]
+title.default = "Anan with Cake"
+title.zh-CN = "安安的蛋糕"
+license = "CC-BY-SA-4.0"
+id = "anan-with-cake"
+path = "anan-with-cake.jpg"
+
+[[wallpapers]]
+title.default = "Anan under the mushroom pavilion"
+title.zh-CN = "在蘑菇亭下的安安"
+license = "CC-BY-SA-4.0"
+id = "anan-under-mushroom"
+path = "anan-under-mushroom.jpg"
+
+
+[[wallpapers]]
+title.default = "Anan and Reimu on the sidewalk by the lake"
+title.zh-CN = "安安和灵梦-湖边人行道"
+license = "CC-BY-SA-4.0"
+id = "by-the-Cuiping-Lake"
+path = "by-the-Cuiping-Lake.jpg"
