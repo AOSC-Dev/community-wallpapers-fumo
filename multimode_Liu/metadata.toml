@@ -1,0 +1,31 @@
+[[authors]]
+email = "dustymind@aosc.io"
+name.default = "multimode_Liu"
+
+[[wallpapers]]
+title.default = "Koishi by the lake"
+title.zh-CN = "湖边小石"
+license = "CC-BY-SA-4.0"
+id = "koishi-by-the-lake"
+path = "koishi-by-the-lake.jpg"
+
+[[wallpapers]]
+title.default = "Is anyone on the phone?"
+title.zh-CN = "有人接电话吗"
+license = "CC-BY-SA-4.0"
+id = "is-anyone-on-the-phone"
+path = "is-anyone-on-the-phone.jpg"
+
+[[wallpapers]]
+title.default = "Eternal Sleep in Dreamland"
+title.zh-CN = "华胥的永眠"
+license = "CC-BY-SA-4.0"
+id = "eternal-sleep-in-dreamland"
+path = "eternal-sleep-in-dreamland.jpg"
+
+[[wallpapers]]
+title.default = "'Koishi' among the ishi"
+title.zh-CN = "石间小石"
+license = "CC-BY-SA-4.0"
+id = "koishi-among-the-ishi"
+path = "koishi-among-the-ishi.jpg"
