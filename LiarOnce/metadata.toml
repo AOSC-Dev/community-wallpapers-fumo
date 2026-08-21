@@ -44,3 +44,31 @@ title.zh-CN = "安安和灵梦-湖边人行道"
 license = "CC-BY-SA-4.0"
 id = "by-the-Cuiping-Lake"
 path = "by-the-Cuiping-Lake.jpg"
+
+[[wallpapers]]
+title.default = "Watch out for snakes (or pythons?)"
+title.zh-CN = "小心蛇出没（或者是蟒蛇？）"
+license = "CC-BY-SA-4.0"
+id = "watch-out-for-snakes-or-pythons"
+path = "watch-out-for-snakes-or-pythons.jpg"
+
+[[wallpapers]]
+title.default = "Yue Ya Hu"
+title.zh-CN = "月雅湖"
+license = "CC-BY-SA-4.0"
+id = "yue-ya-hu"
+path = "yue-ya-hu.jpg"
+
+[[wallpapers]]
+title.default = "A corner of the stadium"
+title.zh-CN = "体育场一角"
+license = "CC-BY-SA-4.0"
+id = "a-corner-of-the-stadium"
+path = "a-corner-of-the-stadium.jpg"
+
+[[wallpapers]]
+title.default = "Anan in the Bushes"
+title.zh-CN = "灌木丛中的安安"
+license = "CC-BY-SA-4.0"
+id = "anan-in-the-bushes"
+path = "anan-in-the-bushes.jpg"
