@@ -1,4 +1,4 @@
-# AOSC Fumo Artwork
+# AOSC Fumo wallpapers
 
 AOSC OS wallpapers with fumofumo (ᗜˬᗜ)
 
@@ -17,6 +17,7 @@ Cuiping Lake
 Fuzhou Night Bird Coffee （福州夜雀小屋）
 Olympic Forest Park（奥林匹克森林公园）
 The Summer Palace （颐和园）
+Hangzhou Dianzi University (HDU)（杭州电子科技大学）
 ```
 
 ## Licenses
